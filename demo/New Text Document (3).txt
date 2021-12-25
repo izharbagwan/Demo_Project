@@ -1,0 +1,1 @@
+git initgit add -Agit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Vampire024/GO_take.gitgit push -u origin  -Amain
